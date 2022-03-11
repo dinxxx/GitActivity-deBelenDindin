@@ -1,3 +1,7 @@
 print ("Dindin Pastrana de Belen")
 print ("Bahi, Gasan, Marinduque")
 print ("June 28, 2000")
+print ("Marinduque State College")
+print ("Bachelor of Science in Information Technology")
+print ("2")
+print ("A")
